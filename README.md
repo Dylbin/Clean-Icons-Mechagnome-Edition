@@ -10,4 +10,9 @@ This repository is used as a distribution platform for `Clean Icons - Mechagnome
 
 Check https://www.wowinterface.com/downloads/info25064-CleanIcons-MechagnomeEdition for more details.
 
-**Current release:** 10.2.7.54604-V4-1
+**Current release:** 10.2.7.54604-V4-1 (Also works with Classic Era & Cataclysm Classic)
+
+# Installation
+- Extract the .zip file to World of Warcraft/_retail_/Interface
+
+
